@@ -1,6 +1,6 @@
 # Sistem Informasi Buah
 
-Sebuah aplikasi berbasis web yang menyediakan informasi lengkap tentang berbagai jenis buah. Dengan menggunakan teknologi HTML, CSS, dan JavaScript, aplikasi ini memungkinkan pengguna untuk mencari dan mengeksplorasi data mengenai berbagai macam buah, termasuk nama, deskripsi, manfaat, dan gambar buah tersebut. Proyek ini bertujuan untuk memudahkan pengguna dalam mengenal lebih jauh tentang buah-buahan dan manfaat kesehatan yang terkandung di dalamnya. Aplikasi ini juga dilengkapi dengan antarmuka yang sederhana dan responsif, membuatnya mudah diakses di berbagai perangkat.
+Aplikasi web yang menyediakan informasi tentang gas yang dihasilkan oleh buah-buahan selama proses pematangan, serta suhu penyimpanan optimal untuk masing-masing buah guna mempertahankan kesegaran dan kualitasnya. Aplikasi ini bertujuan untuk membantu pengguna memahami faktor-faktor yang memengaruhi masa simpan dan kualitas buah dengan cara yang mudah diakses dan dipahami.
 
 # Screenshot 1
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWcoEsjwKgEs67_KnzYasWRqI1OFrctwlD6zKb_HAcHXWulS2g8Y4l_3VGH6sJdKB2vVKpEZ-s-iI-dita_LQyzefPFhKT9Hb-HNv8LE3C8dq4eSjNEHjvjRjJ27JYFthnnL_y2j3ofwlY75yuSBfAS3uKvh-fi2-8TCPxxTIVx7Of3HRWmoOHZuPRDjk/s1600/Screenshot%20%289%29.png">
